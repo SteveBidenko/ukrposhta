@@ -1,7 +1,7 @@
 {
     "name": "stevebidenko/ukrposhta",
     "version": "1.0.3",
-    "description": "Client for ukrposhta API",
+    "description": "Client for the Ukrposhta API",
     "type": "library",
     "keywords": ["ukrposhta", "укр почта", "укр пошта"],
     "repositories": [
@@ -17,7 +17,7 @@
     },
     "require": {
         "guzzlehttp/guzzle": "^7.9",
-        "php": "^8.0"
+        "php": "^8.3"
     },
     "minimum-stability": "dev"
 }
