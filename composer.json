@@ -1,5 +1,6 @@
 {
     "name": "stevebidenko/ukrposhta",
+    "version": "1.0.3",
     "description": "Client for ukrposhta API",
     "type": "library",
     "keywords": ["ukrposhta", "укр почта", "укр пошта"],
