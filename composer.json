@@ -1,12 +1,12 @@
 {
-    "name": "kex15i10/ukrposhta",
+    "name": "stevebidenko/ukrposhta",
     "description": "Client for ukrposhta API",
     "type": "library",
     "keywords": ["ukrposhta", "укр почта", "укр пошта"],
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/kex15i10/ukrposhta"
+            "url": "https://github.com/SteveBidenko/ukrposhta.git"
         }
     ],
     "autoload": {
@@ -15,8 +15,8 @@
         }
     },
     "require": {
-        "guzzlehttp/guzzle": "^6.3",
-        "php": "^7.0"
+        "guzzlehttp/guzzle": "^7.9",
+        "php": "^8.0"
     },
     "minimum-stability": "dev"
 }
