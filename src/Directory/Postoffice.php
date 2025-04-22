@@ -7,7 +7,7 @@ use Ukrposhta\Directory;
 
 class Postoffice extends Directory
 {
-	const REQUEST_URL_GET_POSTOFFICE_BY_CITY_ID = 'get_postoffices_by_city_id';
+	const REQUEST_URL_GET_POSTOFFICE_BY_CITY_ID = 'get_postoffices_by_postcode_cityid_cityvpzid';
 	const REQUEST_URL_GET_POSTOFFICE = 'get_postoffices_by_postindex';
 	const REQUEST_URL_GET_POSTOFFICE_OPEN_HOURS = 'get_postoffices_openhours_by_postindex';
 
